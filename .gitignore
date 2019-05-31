@@ -1,0 +1,6 @@
+/books/node_modules
+/customers/node_modules
+/orders/node_modules
+/books/package-lock.json
+/customers/package-lock.json
+/orders/package-lock.json
